@@ -1,0 +1,5 @@
+#AM	-	-	FM	-	-	Gm	-	-	Am	-	-	Dm	-
+F3	-	-	C4	-	A3	#A3	D3	G3	A3	C4	E3	D3	-	
+D3	-	-	F3	-	-	D3	-	-	C3	-	-	A2	-	
+#A2	-	-	A2	-	C3	G2	#A2	-	E2	-	A2	F2	-	
+#A1	-	-	F1	-	-	G1	-	-	A1	-	-	D2	-	

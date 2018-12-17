@@ -1,0 +1,5 @@
+Dm7	Dm9	CM7	CM7	Bho7	-	E7	EM	Dm7	-	CM9	CM7	#AM9	#AM7	Esus4
+C3	E3	B3	E3	F3	-	D3	E3	F3	C4	D4	B3	C4	A3	B3	
+A2	C3	-	B2	D3	-	-	B2	C3	F3	E3	-	D3	-	E3	
+F2	-	E2	G2	A2	-	#G2	-	A2	-	B2	-	A2	-	-	
+D2	-	C2	-	B1	-	E2	-	D2	-	C2	-	#A1	-	E1	

@@ -1,0 +1,8 @@
+<collection shelf="4PH_range">
+    <range name = "STAB">
+        <soprano>G2,G5</soprano>
+        <alto>G2,G5</alto>
+        <tenor>C2,C5</tenor>
+        <bass>C1,C4</bass>
+    </range>
+</collection>

@@ -1,0 +1,187 @@
+<collection shelf="Harmony_Database">
+    <harmony name="M">
+        <type>three</type>
+        <keys>0,4,7</keys>
+        <importance>1,0</importance>
+    </harmony>
+    <harmony name="M/7">
+        <type>three</type>
+        <keys>7,0,4</keys>
+        <importance>2,0,1</importance>
+    </harmony>
+    <harmony name="M/4">
+        <type>three</type>
+        <keys>4,7,0</keys>
+        <importance>0,2,1</importance>
+    </harmony>
+    <harmony name="m">
+        <type>three</type>
+        <keys>0,3,7</keys>
+        <importance>1,0</importance>
+    </harmony>
+    <harmony name="m/7">
+        <type>three</type>
+        <keys>7,0,3</keys>
+        <importance>2,0,1</importance>
+    </harmony>
+    <harmony name="m/3">
+        <type>three</type>
+        <keys>3,7,0</keys>
+        <importance>0,2,1</importance>
+    </harmony>
+    <harmony name="+">
+        <type>three</type>
+        <keys>0,4,8</keys>
+        <importance>0,1,2</importance>
+    </harmony>
+    <harmony name="o">
+        <type>three</type>
+        <keys>0,3,6</keys>
+        <importance>0,1, 2</importance>
+    </harmony>
+    <harmony name="M7">
+        <type>seven</type>
+        <keys>0,4,7,11</keys>
+        <importance>3,1,0</importance>
+    </harmony>
+    <harmony name="M7/4">
+        <type>seven</type>
+        <keys>4,7,11,0</keys>
+        <importance>2,0,3</importance>
+    </harmony>
+    <harmony name="M7/7">
+        <type>seven</type>
+        <keys>7,11,0,4</keys>
+        <importance>2,3,0</importance>
+    </harmony>
+    <harmony name="M7/11">
+        <type>seven</type>
+        <keys>11,0,4,7</keys>
+        <importance>0,2,1</importance>
+    </harmony>
+    <harmony name="m7">
+        <type>seven</type>
+        <keys>0,3,7,10</keys>
+        <importance>3,1,0</importance>
+    </harmony>
+    <harmony name="m7/3">
+        <type>seven</type>
+        <keys>3,7,10,0</keys>
+        <importance>2,0,3</importance>
+    </harmony>
+    <harmony name="m7/7">
+        <type>seven</type>
+        <keys>7,10,0,3</keys>
+        <importance>2,3,0</importance>
+    </harmony>
+    <harmony name="m7/10">
+        <type>seven</type>
+        <keys>10,0,3,7</keys>
+        <importance>0,2,1</importance>
+    </harmony>
+    <harmony name="7">
+        <type>seven</type>
+        <keys>0,4,7,10</keys>
+        <importance>3,1,0</importance>
+    </harmony>
+    <harmony name="7/4">
+        <type>seven</type>
+        <keys>4,7,10,0</keys>
+        <importance>2,0,3</importance>
+    </harmony>
+    <harmony name="7/7">
+        <type>seven</type>
+        <keys>7,10,0,4</keys>
+        <importance>2,3,0</importance>
+    </harmony>
+    <harmony name="7/10">
+        <type>seven</type>
+        <keys>10,0,4,7</keys>
+        <importance>0,2,1</importance>
+    </harmony>
+    <harmony name="M6">
+        <type>six</type>
+        <keys>0,4,7,9</keys>
+        <importance>3,1,0,2</importance>
+    </harmony>
+    <harmony name="m6">
+        <type>six</type>
+        <keys>0,3,7,9</keys>
+        <importance>3,1,0,2</importance>
+    </harmony>
+    <harmony name="o7">
+        <type>seven</type>
+        <keys>0,3,6,9</keys>
+        <importance>3,2,1,0</importance>
+    </harmony>
+    <harmony name="ho7">
+        <type>seven</type>
+        <keys>0,3,6,10</keys>
+        <importance>3,2,1,0</importance>
+    </harmony>
+    <harmony name="ho7">
+        <type>seven</type>
+        <keys>0,3,6,10</keys>
+        <importance>3,2,1,0</importance>
+    </harmony>
+    <harmony name="ho7/6">
+        <type>seven</type>
+        <keys>6,10,0,3</keys>
+        <importance>1,0,3,2</importance>
+    </harmony>
+    <harmony name="ho7/10">
+        <type>seven</type>
+        <keys>10,0,3,6</keys>
+        <importance>0,3,2,1</importance>
+    </harmony>
+    <harmony name="sus4">
+        <type>sus</type>
+        <keys>0,5,7</keys>
+        <importance>2,0,1</importance>
+    </harmony>
+    <harmony name="sus7">
+        <type>sus</type>
+        <keys>0,5,7,10</keys>
+        <importance>2,3,0,1</importance>
+    </harmony>
+    <harmony name="sus2">
+        <type>sus</type>
+        <keys>0,2,7</keys>
+        <importance>2,0,1</importance>
+    </harmony>
+    <harmony name="Ma9">
+        <type>three</type>
+        <keys>0,2,4,7</keys>
+        <importance>1,2,0</importance>
+    </harmony>
+    <harmony name="Ma4">
+        <type>three</type>
+        <keys>0,4,5,7</keys>
+        <importance>2,1,0,3</importance>
+    </harmony>
+    <harmony name="Ma26">
+        <type>three</type>
+        <keys>0,2,4,7,9</keys>
+        <importance>4,1,2,0</importance>
+    </harmony>
+    <harmony name="ma9">
+        <type>three</type>
+        <keys>0,2,3,7</keys>
+        <importance>1,2,0</importance>
+    </harmony>
+    <harmony name="ma4">
+        <type>three</type>
+        <keys>0,3,5,7</keys>
+        <importance>2,1,0,3</importance>
+    </harmony>
+    <harmony name="M9">
+        <type>nine</type>
+        <keys>0,2,4,7,11</keys>
+        <importance>1,4,2,0</importance>
+    </harmony>
+    <harmony name="m9">
+        <type>nine</type>
+        <keys>0,2,3,7,10</keys>
+        <importance>1,4,2,0</importance>
+    </harmony>
+</collection>
